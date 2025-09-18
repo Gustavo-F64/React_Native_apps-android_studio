@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "spontaneous-violet-macaroni-and-cheese",
+    "slug": "snack-9205d784-1e3c-46a6-907b-cb70109efc8b",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.anonymous.snack9205d7841e3c46a6907bcb70109efc8b"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
